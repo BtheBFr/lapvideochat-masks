@@ -1,0 +1,13 @@
+{
+  "id": "cat",
+  "name": "Котик",
+  "version": 1,
+  "author": "LapVideoChat",
+  "description": "Милая кошачья маска",
+  "points": [
+    {"id": "left_eye", "x": 0.3, "y": 0.4},
+    {"id": "right_eye", "x": 0.7, "y": 0.4},
+    {"id": "nose", "x": 0.5, "y": 0.6}
+  ],
+  "texture_size": {"width": 512, "height": 512}
+}
