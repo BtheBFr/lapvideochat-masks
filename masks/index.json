@@ -1,5 +1,18 @@
 {
   "version": 1,
   "last_updated": "2026-01-14T12:00:00Z",
-  "masks": []
+  "masks": [
+    {
+      "id": "cat",
+      "name": "Котик",
+      "author": "LapVideoChat",
+      "version": 1,
+      "description": "Милая кошачья маска",
+      "preview_url": "https://raw.githubusercontent.com/BtheBFr/lapvideochat-masks/main/masks/cat/preview.png",
+      "texture_url": "https://raw.githubusercontent.com/BtheBFr/lapvideochat-masks/main/masks/cat/texture.png",
+      "config_url": "https://raw.githubusercontent.com/BtheBFr/lapvideochat-masks/main/masks/cat/config.json",
+      "category": "animals",
+      "tags": ["animal", "cat", "funny"]
+    }
+  ]
 }
